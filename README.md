@@ -1,0 +1,1 @@
+# Blind-xss-via-ffuf
